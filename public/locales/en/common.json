@@ -1,0 +1,11 @@
+{
+  "home": {
+    "welcome": "Welcome to RideSync",
+    "description": "The safe and reliable transportation platform for students and employees.",
+    "register": "Register",
+    "login": "Login"
+  },
+  "footer": {
+    "rights": "© 2023 RideSync. All rights reserved."
+  }
+}

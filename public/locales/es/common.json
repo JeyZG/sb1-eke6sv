@@ -1,0 +1,11 @@
+{
+  "home": {
+    "welcome": "Bienvenido a RideSync",
+    "description": "La plataforma de transporte seguro y confiable para estudiantes y empleados.",
+    "register": "Registrarse",
+    "login": "Iniciar sesión"
+  },
+  "footer": {
+    "rights": "© 2023 RideSync. Todos los derechos reservados."
+  }
+}
